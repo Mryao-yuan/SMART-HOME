@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/air_conditioner_open.png</file>
+        <file>image/close_led.png</file>
+        <file>image/down.png</file>
+        <file>image/home_bh.png</file>
+        <file>image/leave_home_mode.png</file>
+        <file>image/led_off.png</file>
+        <file>image/led_on.png</file>
+        <file>image/LOGO.png</file>
+        <file>image/open_led.png</file>
+        <file>image/sleep.png</file>
+        <file>image/Spotlight_off.png</file>
+        <file>image/Spotlight_open.png</file>
+        <file>image/timg.jpg</file>
+        <file>image/up.png</file>
+        <file>image/voice_off.png</file>
+        <file>image/voice_open.png</file>
+    </qresource>
+</RCC>
